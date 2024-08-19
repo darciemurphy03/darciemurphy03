@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darcie</h1>
 <h3 align="center">An aspiring frontend developer</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 - 📫 How to reach me: **darciemurphy88@gmail.com**
 
