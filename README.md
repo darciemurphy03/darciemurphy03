@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darcie</h1>
-<h3 align="center">An aspiring frontend developer</h3>
+<h3 align="center">A third year Computer Science student at Ulster University</h3>
 
 - 🌱 I’m currently learning **React.js**
 
